@@ -94,7 +94,7 @@ ul {
 
 /* Кнопка */
 button {
-  font-family: "Roboto";
+  font-family: inherit;
   cursor: pointer;
 }
 
@@ -222,6 +222,7 @@ button {
 }
 
 .adress-link {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
@@ -236,6 +237,7 @@ button {
 }
 
 .contact-link {
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;

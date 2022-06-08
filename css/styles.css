@@ -182,8 +182,7 @@ button {
 }
 
 .filter-button:hover,
-.filter-button:focus,
-.filter-button:active {
+.filter-button:focus {
   background-color: var(--accent-text);
   color: var(--primery-white-color);
 }
